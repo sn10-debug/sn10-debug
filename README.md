@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full Stack and ML developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on **Deep Fake**
+- 🔭 I’m currently working on a **Full Stack Project**
 
-- 🌱 I’m currently learning **Graph Convolutional Network**
+- 🌱 I’m currently learning about **Large Language Models**
 
-- 👯 I’m looking to collaborate on **ML Projects**
+- 👯 I’m looking to collaborate on **Full Stack and ML Projects**
 
 - 📫 How to reach me **nshakti.10@gmail.com**
 
