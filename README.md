@@ -1,5 +1,5 @@
 <h1 align="center">Hey Forks👋</h1>
-<h3 align="center">A passionate Full Stack and ML developer from India</h3>
+<h3 align="center">A passionate Full Stack and ML developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on a **Full Stack Project**
